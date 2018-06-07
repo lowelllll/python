@@ -1,2 +1,3 @@
 # pychram dir rm
 .idea
+*.pyc
