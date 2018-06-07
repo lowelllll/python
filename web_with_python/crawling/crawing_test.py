@@ -18,5 +18,3 @@ titles = soup.findAll(class_='dc-restaurant-name')
 for title in titles:
     print(title.get_text())
 
-for img in imgs:
-    print(img)
